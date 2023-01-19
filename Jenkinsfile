@@ -1,4 +1,4 @@
-/*pipeline {
+pipeline {
     tools {
         terraform 'terraform1.3.7'
     }
@@ -37,4 +37,4 @@
             }
         }
     }
-}*/
+}
